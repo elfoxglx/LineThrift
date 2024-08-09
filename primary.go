@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"../thrift"
+	"github.com/elfoxglx/thrift"
 )
 
 type AuthErrorCode int64

@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"../thrift"
+	"github.com/elfoxglx/thrift"
 )
 
 type UpdateAttributeType int64

@@ -8,7 +8,7 @@ import (
 	"reflect"
 	"strconv"
 
-	"../thrift"
+	"github.com/elfoxglx/thrift"
 )
 
 // (needed to ensure safety because of naive import list construction.)
